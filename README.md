@@ -10,7 +10,7 @@ Entry-level cybersecurity aspirant (SOC / Security Analyst) with a focus on clou
 ## Projects
 | Project | What it is |
 |---|---|
-| [Resume Screener](https://github.com/abhishekya33/Resume_Screener) | AI-powered tool that ranks resumes against a job description. [Live demo](https://resume-screener-theta-nine.vercel.app) |
+| [Resume Screener](https://github.com/abhishekya33/Resume_Screener) | AI-powered tool that ranks resumes against a job description.|
 | [AWS Project Reports](https://github.com/abhishekya33/AWS_Project_Reports) | Three hands-on AWS labs with architecture, verification steps, and production hardening notes |
 
 ## Skills
